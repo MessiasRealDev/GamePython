@@ -55,6 +55,4 @@ A pontuação média das tentativas dos jogadores é de: 5.0
 - Melhorar a interface com elementos visuais.
 - Adicionar suporte para mais estatísticas no ranking.
 
-## Autor
-Este projeto foi desenvolvido para fins acadêmicos como exercício de lógica de programação.
 
